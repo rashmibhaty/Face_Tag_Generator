@@ -4,7 +4,7 @@ Machine learning techniques are used to automatically tag Images and Videos.
 Generating the model:
 Face extracion:
 File:face_extract.py
-Face detection technique is used to extact gray scale face images. Opencv CascadeClassifier detectMultiScale are the the api used for detection.
+Face detection technique is used to extract gray scale face images. Opencv CascadeClassifier detectMultiScale are the the api used for detection.
 
 Training the model:
 File:face_model.py
