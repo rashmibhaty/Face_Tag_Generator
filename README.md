@@ -18,6 +18,6 @@ Automatic Tagging:
 File:face_tag.py
      face_tag_video.py
 Trained model and indices are loaded. load_model is the apis used.
-Faces detected in new inamges and videos are used for prediction using the saved model.model.predict is the api used.
+Faces detected in new imamges and videos are used for prediction using the saved model.model.predict is the api used.
 
      
